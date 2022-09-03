@@ -10,20 +10,26 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elitewebdigitals&theme=gruvbox" alt="elitewebdigitals" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nonfungibleraph" target="blank"><img src="https://img.shields.io/twitter/follow/nonfungibleraph?logo=twitter&style=for-the-badge" alt="nonfungibleraph" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/donaldraph/" target="blank"><img src="https://img.shields.io/linkedin/follow/donaldraph?logo=linkedin&style=for-the-badge" alt="donaldraph" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nonfungibleraph" target="blank"><img src="https://img.shields.io/twitter/follow/nonfungibleraph?logo=twitter&style=for-the-badge" alt="nonfungibleraph" /></a> </p>
 
 - 🔭 I’m currently working on **Nonfungible Caps**
 
 - 🌱 I’m currently learning **software engineering and blockchain development**
 
-- 💬 Ask me about **Html, Bash Script, CSS.**
+- 👯 I’m looking to collaborate with other software engineers.
+
+- 🥅 2022 Goals: To be a better version of myself.
+
+- 💬 Ask me about **Html, Bash Script, CSS, Javascript**
 
 - 📫 How to reach me **info@donaldraph.com**
 
-- 📄 Know about my experiences [https://donaldraph.com/](https://donaldraph.com/)
+- 📄 Know about my experiences [![website](./img/globe-dark.svg)](https://donaldraph.com/#gh-dark-mode-only)
 
 - ⚡ Fun fact **I'm very creative and i never stop learning.**
 
-### Blogs posts
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
