@@ -54,11 +54,14 @@
 ### :bar_chart: GitHub Status :
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elitewebdigitals&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="elitewebdigitals" /></p>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elitewebdigitals&show_icons=true&locale=en&theme=gruvbox" alt="elitewebdigitals" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elitewebdigitals&theme=gruvbox" alt="elitewebdigitals" /></p>
 
+<p><a href="https://github.com/elitewebdigitals/github-readme-activity-graph"><img alt="Donald's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elitewebdigitals&theme=gruvbox&hide_border=true" /></a></p>
 
-### Contribution Chart
+
+## Watch my contribution graph eaten by the snake🐍
 ![snake gif](https://github.com/elitewebdigitals/elitewebdigitals/blob/output/github-contribution-grid-snake.gif)
