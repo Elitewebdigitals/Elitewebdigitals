@@ -58,3 +58,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elitewebdigitals&show_icons=true&locale=en&theme=gruvbox" alt="elitewebdigitals" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elitewebdigitals&theme=gruvbox" alt="elitewebdigitals" /></p>
+
+
+### Contribution Chart
+![snake gif](https://github.com/elitewebdigitals/blob/output/github-contribution-grid-snake.gif)
