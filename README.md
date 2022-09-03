@@ -29,6 +29,11 @@
 
 - ⚡ Fun fact **I'm very creative and i never stop learning.**
 
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE-LIST:START -->
+<!-- YOUTUBE-LIST:END -->
+
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
