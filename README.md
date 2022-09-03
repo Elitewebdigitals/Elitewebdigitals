@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/nonfungibleraph" target="blank"><img src="https://img.shields.io/twitter/follow/nonfungibleraph?logo=twitter&style=for-the-badge" alt="nonfungibleraph" /></a> </p>
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7H1oWnyxNou0YxL1E69VSw?style=for-the-badge)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7H1oWnyxNou0YxL1E69VSw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
 <p align="left"> <a href="https://www.linkedin.com/in/donaldraph/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="donaldraph" /></a> </p>
 
