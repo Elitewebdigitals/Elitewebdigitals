@@ -61,4 +61,4 @@
 
 
 ### Contribution Chart
-![snake gif](https://github.com/elitewebdigitals/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/elitewebdigitals/elitewebdigitals/blob/output/github-contribution-grid-snake.gif)
