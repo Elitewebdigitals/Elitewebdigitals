@@ -10,8 +10,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elitewebdigitals&theme=gruvbox" alt="elitewebdigitals" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nonfungibleraph" target="blank"><img src="https://img.shields.io/twitter/follow/nonfungibleraph?logo=twitter&style=for-the-badge" alt="nonfungibleraph" /></a> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/donaldraph/" target="blank"><img src="https://img.shields.io/linkedin/follow/donaldraph?logo=linkedin&style=for-the-badge" alt="donaldraph" /></a> </p>
-<p align="left"> <a href="https://twitter.com/nonfungibleraph" target="blank"><img src="https://img.shields.io/twitter/follow/nonfungibleraph?logo=twitter&style=for-the-badge" alt="nonfungibleraph" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/donaldraph/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="donaldraph" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nonfungibleraph" target="blank"><img src="![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7H1oWnyxNou0YxL1E69VSw?style=for-the-badge)" alt="nonfungibleraph" /></a> </p>
 
 - 🔭 I’m currently working on **Nonfungible Caps**
 
