@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=C55300&vCenter=true&width=600&lines=Welcome+To+Donald's+Github+Profile!)
 <h1 align="center">Hi 👋, I'm Donald Raph</h1>
 <h3 align="center">I'm passionately transitioning into software engineering and blockchain development</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elitewebdigitals&label=Profile%20views&color=0e75b6&style=flat" alt="elitewebdigitals" /> </p>
@@ -11,12 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/nonfungibleraph" target="blank"><img src="https://img.shields.io/twitter/follow/nonfungibleraph?logo=twitter&style=for-the-badge" alt="nonfungibleraph" /></a> </p>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7H1oWnyxNou0YxL1E69VSw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
-<p align="left"> <a href="https://www.linkedin.com/in/donaldraph/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="donaldraph" /></a> </p>
-
-
-- 🔭 I’m currently working on **Nonfungible Caps**
+- 🔭 I’m currently working on a project yet to be disclosed**
 
 - 🌱 I’m currently learning **software engineering and blockchain development**
 
@@ -26,9 +22,7 @@
 
 - 💬 Ask me about **Html, Bash Script, CSS, Javascript**
 
-- 📫 How to reach me **info@donaldraph.com**
-
-- 📄 Know about my experiences [![website](./img/globe-dark.svg)](https://donaldraph.com/#gh-dark-mode-only)
+- 📄 Know about my <a href="https://donaldraph.com/">experiences</a>
 
 - ⚡ Fun fact **I'm very creative and i never stop learning.**
 
@@ -48,7 +42,7 @@
 <a href="https://twitter.com/nonfungibleraph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nonfungibleraph" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/donaldraph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/donaldraph" height="30" width="40" /></a>
 <a href="https://medium.com/@biznessinformant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@biznessinformant" height="30" width="40" /></a>
-<a href="https://www.youtube.com/uc7h1ownyxnou0yxl1e69vsw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc7h1ownyxnou0yxl1e69vsw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/uc7h1ownyxnou0yxl1e69vsw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
