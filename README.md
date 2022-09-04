@@ -28,11 +28,10 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Learning to Code is NOT Hard!!](https://www.youtube.com/watch?v=5jzIjU7Ed9o)
-- [12 ways to center a div](https://www.youtube.com/watch?v=WM02RIeE1Fs)
-- [How to center a div 12 ways!!](https://www.youtube.com/watch?v=kphds-1V9o8)
-- [JavaScript Variables](https://www.youtube.com/watch?v=oXegXhqGQ30)
-- [What is JavaScript? Click to watch more 👇](https://www.youtube.com/watch?v=asyHJSlYwX0)
+- [Git and Vs code setup- Work directly from Vs code.](https://www.youtube.com/watch?v=nCSjUBV3FaE)
+- [Learn the right way](https://www.youtube.com/watch?v=jI7TJlFux1M)
+- [How to Install and Configure Ubuntu in VirtualBox video 2022 08 15 02 19 32](https://www.youtube.com/watch?v=u1CqOQE3zco)
+- [How To Enable Virtualization on Windows 7-11 PCs](https://www.youtube.com/watch?v=wQ1n_S8gxUk)
 <!-- YOUTUBE:END -->
 
 
