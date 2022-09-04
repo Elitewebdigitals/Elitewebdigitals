@@ -38,11 +38,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [How to make Git ignore file permission &lpar;chmod&rpar; changes](https://dev.to/smpnjn/how-to-make-git-ignore-file-permission-chmod-changes-352b)
+- [How Do Liquidity Pools Work? &lpar;Like UniSwap or Balancer&rpar;](https://dev.to/naubit/how-do-liquidity-pools-work-like-uniswap-or-balancer-26m)
+- [Blockchain Technology: The types and use cases](https://dev.to/ameenat/blockchain-technology-the-types-and-use-cases-1dh1)
+- [🍉 AWS CDK 101 -🥒 Cross region putEvents across accounts using Eventbridge for Event-Forwarder project](https://dev.to/aws-builders/aws-cdk-101-cross-region-putevents-across-accounts-using-eventbridge-for-event-forwarder-project-1de2)
+- [How to Get a Tech Job Without any Experience](https://dev.to/beetlehope/how-to-get-a-tech-job-without-any-experience-42pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Spotify Playing -->
