@@ -38,11 +38,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to make Git ignore file permission &lpar;chmod&rpar; changes](https://dev.to/smpnjn/how-to-make-git-ignore-file-permission-chmod-changes-352b)
-- [How Do Liquidity Pools Work? &lpar;Like UniSwap or Balancer&rpar;](https://dev.to/naubit/how-do-liquidity-pools-work-like-uniswap-or-balancer-26m)
-- [Blockchain Technology: The types and use cases](https://dev.to/ameenat/blockchain-technology-the-types-and-use-cases-1dh1)
-- [Introdução a Algoritmos](https://dev.to/feministech/introducao-a-algoritmos-4eom)
-- [🍉 AWS CDK 101 -🥒 Cross region putEvents across accounts using Eventbridge for Event-Forwarder project](https://dev.to/aws-builders/aws-cdk-101-cross-region-putevents-across-accounts-using-eventbridge-for-event-forwarder-project-1de2)
+
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Spotify Playing -->
