@@ -46,29 +46,19 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Spotify Playing -->
-### spotify playing 🎧
+### Spotify Playing 🎧
 
-
-[<img src="https://novatorem-1sid1auj4-elitewebdigitals.vercel.app/api/spotify" alt="Donald's Spotify Playing" width="350" />](https://open.spotify.com/user/{USER_NAME})
-<!-- 
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-
-&nbsp; <br> [![Spotify](https://https://novatorem-1sid1auj4-elitewebdigitals.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/)
-
-  </td>
-</table> -->
+[<img src="https://novatorem-1sid1auj4-elitewebdigitals.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31japuk5iz7txagbohj6zmwg7vwa)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/macdonaldraph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="macdonaldraph" height="30" width="40" /></a>
-<a href="https://dev.to/elitewebdigitals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elitewebdigitals" height="30" width="40" /></a>
 <a href="https://twitter.com/nonfungibleraph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nonfungibleraph" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/donaldraph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/donaldraph" height="30" width="40" /></a>
-<a href="https://medium.com/@biznessinformant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@biznessinformant" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/uc7h1ownyxnou0yxl1e69vsw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="https://codepen.io/macdonaldraph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="macdonaldraph" height="30" width="40" /></a>
+<a href="https://dev.to/elitewebdigitals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elitewebdigitals" height="30" width="40" /></a>
+<a href="https://medium.com/@biznessinformant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@biznessinformant" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
