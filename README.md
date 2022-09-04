@@ -49,6 +49,8 @@
 ### spotify playing 🎧
 
 
+[<img src="https://novatorem-1sid1auj4-elitewebdigitals.vercel.app/api/spotify" alt="Donald's Spotify Playing" width="350" />](https://open.spotify.com/user/{USER_NAME})
+<!-- 
 <table width="100%"> 
   <tr>
   <td width="50%">
@@ -56,7 +58,7 @@
 &nbsp; <br> [![Spotify](https://https://novatorem-1sid1auj4-elitewebdigitals.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/)
 
   </td>
-</table>
+</table> -->
 
 
 <h3 align="left">Connect with me:</h3>
