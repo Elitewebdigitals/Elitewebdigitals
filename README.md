@@ -45,6 +45,11 @@
 - [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
 <!-- BLOG-POST-LIST:END -->
 
+<!-- Spotify Playing -->
+### spotify playing 🎧
+[![Spotify](https://https://novatorem-1sid1auj4-elitewebdigitals.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/macdonaldraph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="macdonaldraph" height="30" width="40" /></a>
@@ -73,4 +78,5 @@
 ![snake gif](https://github.com/elitewebdigitals/elitewebdigitals/blob/output/github-contribution-grid-snake.gif)
 
 <!--START_SECTION:activity-->
+
 
