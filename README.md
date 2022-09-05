@@ -38,11 +38,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [REST with Rust](https://dev.to/celeron/rest-with-rust-4j5d)
 - [We measured the SSR performance of 6 JS frameworks - here&#39;s what we found](https://dev.to/kaspera/we-measured-the-ssr-performance-of-6-js-frameworks-heres-what-we-found-1ck0)
 - [What actually is JavaScript?](https://dev.to/iarchitsharma/what-actually-is-javascript-2ckn)
+- [Astro Nano Stores maps](https://dev.to/dailydevtips1/astro-nano-stores-maps-b81)
 - [Tour and Travels](https://dev.to/picklu/tour-and-travels-3108)
-- [Объединение интервалов](https://dev.to/ivsivak/obiedinieniie-intiervalov-5c7m)
-- [Deploying a .NET gRPC Server on Azure App Service](https://dev.to/sahan/deploying-a-net-grpc-server-on-azure-app-service-3877)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Spotify Playing -->
