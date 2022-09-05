@@ -38,11 +38,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Var VS Let VS Const in JavaScript](https://dev.to/zubairgujjar997/var-vs-let-vs-const-in-javascript-329d)
+- [Build a to-do Node.js CLI with Prisma and Next.js](https://dev.to/devomar100/build-a-to-do-nodejs-cli-with-prisma-and-nextjs-d4j)
 - [Meme Monday 🌴](https://dev.to/ben/meme-monday-16m8)
+- [10 Tailwind CSS eCommerce templates, both free and paid](https://dev.to/vivgui/10-tailwind-css-ecommerce-templates-both-free-and-paid-2l42)
 - [Ferramentas não-devs pra fazer sua carreira decolar](https://dev.to/frontfabi/ferramentas-nao-devs-pra-fazer-sua-carreira-decolar-4hb8)
-- [Building a live-event alert system with React, Socket.io, and Push Notifications 🚀](https://dev.to/novu/building-a-live-event-alert-system-with-react-socketio-and-push-notifications-2jg5)
-- [PRODUCT MANAGEMENT](https://dev.to/alicho220/product-management-3l0b)
-- [Javascript: Functional Composition](https://dev.to/urstrulyvishwak/js-functional-composition-15dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Spotify Playing -->
