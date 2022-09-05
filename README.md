@@ -38,11 +38,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday 🌴](https://dev.to/ben/meme-monday-16m8)
 - [Ferramentas não-devs pra fazer sua carreira decolar](https://dev.to/frontfabi/ferramentas-nao-devs-pra-fazer-sua-carreira-decolar-4hb8)
 - [Building a live-event alert system with React, Socket.io, and Push Notifications 🚀](https://dev.to/novu/building-a-live-event-alert-system-with-react-socketio-and-push-notifications-2jg5)
 - [PRODUCT MANAGEMENT](https://dev.to/alicho220/product-management-3l0b)
 - [Javascript: Functional Composition](https://dev.to/urstrulyvishwak/js-functional-composition-15dc)
-- [The 5 reasons why we chose open source for our Billing API](https://dev.to/lago/the-5-reasons-why-we-chose-open-source-for-our-billing-api-e70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Spotify Playing -->
