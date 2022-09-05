@@ -38,11 +38,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Fullstack Shopping/online store Website 🔥 [ Video Tutorials ]](https://dev.to/kunaal438/build-fullstack-shoppingonline-store-website-video-tutorials--463b)
+- [3 Programming Languages to Master in 2022](https://dev.to/onlydevs_/3-programming-languages-to-master-in-2022-12je)
+- [Use Varnish HTTP Cache And Docker To Boost Website Speed](https://dev.to/paulknulst/use-varnish-http-cache-and-docker-to-boost-website-speed-2k9n)
 - [Responsive Navbar in CSS](https://dev.to/shubhamtiwari909/responsive-navbar-in-css-2158)
 - [Tutorial Hell: How to Escape the Endless Loop of Online Programming Tutorials](https://dev.to/chainguns/tutorial-hell-how-to-escape-the-endless-loop-of-online-programming-tutorials-476n)
-- [Headless CMS - Static Site Generator with Strapi 4 and Jekyll](https://dev.to/bluszcz/static-site-generator-with-strapi-4-and-jekyll-5afp)
-- [Create Working Forms for HTML, React, Vue - No Coding/Server Required!](https://dev.to/form/website-forms-4p4o)
-- [✨Inspire me Monday✨ - From Pathologic Anatomy to QA Lead](https://dev.to/monicafidalgo/inspire-me-monday-from-pathologic-anatomy-to-qa-lead-531l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Spotify Playing -->
