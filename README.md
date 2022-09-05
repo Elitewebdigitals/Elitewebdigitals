@@ -38,11 +38,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ferramentas não-devs pra fazer sua carreira decolar](https://dev.to/frontfabi/ferramentas-nao-devs-pra-fazer-sua-carreira-decolar-4hb8)
+- [Building a live-event alert system with React, Socket.io, and Push Notifications 🚀](https://dev.to/novu/building-a-live-event-alert-system-with-react-socketio-and-push-notifications-2jg5)
+- [PRODUCT MANAGEMENT](https://dev.to/alicho220/product-management-3l0b)
+- [Javascript: Functional Composition](https://dev.to/urstrulyvishwak/js-functional-composition-15dc)
 - [The 5 reasons why we chose open source for our Billing API](https://dev.to/lago/the-5-reasons-why-we-chose-open-source-for-our-billing-api-e70)
-- [Cloud Technology News of the Month: August 2022](https://dev.to/castai/cloud-technology-news-of-the-month-august-2022-180i)
-- [Deploying a simple portable Web App in any cloud using Terraform and Multy](https://dev.to/multy/deploying-a-simple-portable-web-app-in-any-cloud-using-terraform-and-multy-20hl)
-- [Introduction to Next.js Link component](https://dev.to/refine/introduction-to-nextjs-link-component-1283)
-- [React Tailwind CSS Cards Example](https://dev.to/larainfo/react-tailwind-css-cards-example-1d86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Spotify Playing -->
