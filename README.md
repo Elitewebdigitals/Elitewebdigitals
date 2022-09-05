@@ -38,11 +38,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Colored logs in Flutter application with Talker](https://dev.to/frezyx/colored-logs-in-flutter-application-with-talker-2d25)
+- [How to undo a git pull](https://dev.to/smpnjn/how-to-undo-a-git-pull-b88)
 - [PHP+Nginx+Docker](https://dev.to/walternascimentobarroso/phpnginxdocker-nih)
 - [Build a Next.js App with Appwrite and Multiple Databases](https://dev.to/hackmamba/build-a-nextjs-app-with-appwrite-and-multiple-databases-5bgf)
 - [Analyzing AST in Go with JSON tools](https://dev.to/evgenus/analyzing-ast-in-go-with-json-tools-36dg)
-- [User guide templates. Convenient? Convenient!](https://dev.to/cartervi/user-guide-templates-convenient-convenient-12f8)
-- [My Key Takeaways From The Campus DevRel Show | Juan Pablo Flores E2](https://dev.to/aryank21/my-key-takeaways-from-the-campus-devrel-show-juan-pablo-flores-e2-3m5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Spotify Playing -->
