@@ -38,11 +38,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Technology News of the Month: August 2022](https://dev.to/castai/cloud-technology-news-of-the-month-august-2022-180i)
 - [Deploying a simple portable Web App in any cloud using Terraform and Multy](https://dev.to/multy/deploying-a-simple-portable-web-app-in-any-cloud-using-terraform-and-multy-20hl)
 - [Introduction to Next.js Link component](https://dev.to/refine/introduction-to-nextjs-link-component-1283)
+- [React Tailwind CSS Cards Example](https://dev.to/larainfo/react-tailwind-css-cards-example-1d86)
 - [Django cheatsheet - Views](https://dev.to/jesuissuyaa_/django-cheatsheet-views-135f)
-- [I WANT TO BUILD A RAPE PREVENTION SOFTWARE](https://dev.to/chizobaonorh/i-want-to-build-a-rape-prevention-software-1mlg)
-- [FREE Python Course in Hindi &lpar;Download Free PDF&rpar;](https://dev.to/tutorialinhindi/free-python-course-in-hindi-learn-python-in-hindi-2dn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Spotify Playing -->
