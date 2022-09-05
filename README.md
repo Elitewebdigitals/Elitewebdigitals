@@ -38,11 +38,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a .NET gRPC Server on Azure App Service](https://dev.to/sahan/deploying-a-net-grpc-server-on-azure-app-service-3877)
-- [Life Post Bootcamp&lpar;Moringa School&rpar; &amp; Impostor Syndrome!](https://dev.to/atienoobwanda/life-post-bootcampmoringa-school-impostor-syndrome-2na9)
-- [Welcome to the new Vue Storefront Developer Portal](https://dev.to/vue-storefront/welcome-to-the-new-vue-storefront-developer-portal-1glc)
-- [Make Testing Easier with Test Fixture Generators](https://dev.to/jcteague/make-testing-easier-with-test-fixture-generators-5485)
-- [How to implement login in React](https://dev.to/logify/how-to-implement-login-in-react-10gm)
+
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Spotify Playing -->
