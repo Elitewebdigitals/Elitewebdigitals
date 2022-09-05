@@ -38,11 +38,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Responsive Navbar in CSS](https://dev.to/shubhamtiwari909/responsive-navbar-in-css-2158)
+- [Tutorial Hell: How to Escape the Endless Loop of Online Programming Tutorials](https://dev.to/chainguns/tutorial-hell-how-to-escape-the-endless-loop-of-online-programming-tutorials-476n)
+- [Headless CMS - Static Site Generator with Strapi 4 and Jekyll](https://dev.to/bluszcz/static-site-generator-with-strapi-4-and-jekyll-5afp)
 - [Create Working Forms for HTML, React, Vue - No Coding/Server Required!](https://dev.to/form/website-forms-4p4o)
 - [✨Inspire me Monday✨ - From Pathologic Anatomy to QA Lead](https://dev.to/monicafidalgo/inspire-me-monday-from-pathologic-anatomy-to-qa-lead-531l)
-- [REST with Rust](https://dev.to/celeron/rest-with-rust-4j5d)
-- [We measured the SSR performance of 6 JS frameworks - here&#39;s what we found](https://dev.to/kaspera/we-measured-the-ssr-performance-of-6-js-frameworks-heres-what-we-found-1ck0)
-- [What actually is JavaScript?](https://dev.to/iarchitsharma/what-actually-is-javascript-2ckn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Spotify Playing -->
