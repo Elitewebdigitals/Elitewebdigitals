@@ -38,11 +38,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [User guide templates. Convenient? Convenient!](https://dev.to/cartervi/user-guide-templates-convenient-convenient-12f8)
+- [My Key Takeaways From The Campus DevRel Show | Juan Pablo Flores E2](https://dev.to/aryank21/my-key-takeaways-from-the-campus-devrel-show-juan-pablo-flores-e2-3m5p)
+- [Keep Your Apps Accessible and Your e2e Tests Stable With WebdriverIOs New Accessibility Selector](https://dev.to/christian_bromann/keep-your-apps-accessible-and-your-e2e-tests-stable-with-webdriverios-new-accessibility-selector-4fkf)
 - [Var VS Let VS Const in JavaScript](https://dev.to/zubairgujjar997/var-vs-let-vs-const-in-javascript-329d)
 - [Build a to-do Node.js CLI with Prisma and Next.js](https://dev.to/devomar100/build-a-to-do-nodejs-cli-with-prisma-and-nextjs-d4j)
-- [Meme Monday 🌴](https://dev.to/ben/meme-monday-16m8)
-- [10 Tailwind CSS eCommerce templates, both free and paid](https://dev.to/vivgui/10-tailwind-css-ecommerce-templates-both-free-and-paid-2l42)
-- [Ferramentas não-devs pra fazer sua carreira decolar](https://dev.to/frontfabi/ferramentas-nao-devs-pra-fazer-sua-carreira-decolar-4hb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Spotify Playing -->
