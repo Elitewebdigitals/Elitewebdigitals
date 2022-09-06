@@ -38,11 +38,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-<!-- - [How to implement login in React](https://dev.to/logify/how-to-implement-login-in-react-10gm)
-- [Como eu lidei com a ansiedade pra estudar?](https://dev.to/hugaomarques/como-eu-lidei-com-a-ansiedade-pra-estudar-22oi)
-- [Os desafios de ser DevRel](https://dev.to/feministech/os-desafios-de-ser-devrel-24po)
-- [How to make Git ignore file permission &lpar;chmod&rpar; changes](https://dev.to/smpnjn/how-to-make-git-ignore-file-permission-chmod-changes-352b)
-- [How Do Liquidity Pools Work? &lpar;Like UniSwap or Balancer&rpar;](https://dev.to/naubit/how-do-liquidity-pools-work-like-uniswap-or-balancer-26m) -->
+- [Top 8 Data Science Jobs and Skills of 2023- Codexashish](https://dev.to/scorpiocoder/top-8-data-science-jobs-and-skills-of-2023-codexashish-2bc5)
+- [Why explicit return type is a good thing](https://dev.to/arnelenero/why-explicit-return-type-is-a-good-thing-43lj)
+- [Build a custom React autocomplete search component](https://dev.to/michaelburrows/build-a-custom-react-autocomplete-search-component-2hcd)
+- [Computed Nano Stores](https://dev.to/dailydevtips1/computed-nano-stores-552g)
+- [Go from Junior to Senior developer in a couple of hours](https://dev.to/polterguy/go-from-junior-to-senior-developer-in-a-couple-of-hours-5hee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Spotify Playing -->
