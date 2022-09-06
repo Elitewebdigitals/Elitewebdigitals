@@ -38,11 +38,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Create Avatar From Photo](https://dev.to/zegocloud/how-to-create-avatar-from-photo-57oa)
 - [How to make a simple interactive shell in Go](https://dev.to/arshamalh/how-to-make-a-simple-interactive-shell-in-go-2log)
+- [Run a node app into AWS lambda](https://dev.to/dashpy/run-a-node-app-into-aws-lambda-1g07)
 - [How to configure path aliases w/Vite + Vue/React](https://dev.to/koha/how-to-configure-path-aliases-wvite-vuereact-3po9)
 - [Failed my way to 🥑developcado🥑](https://dev.to/jennjunod/failed-my-way-to-developcado-328d)
-- [Colored logs in Flutter application with Talker](https://dev.to/frezyx/colored-logs-in-flutter-application-with-talker-2d25)
-- [How to undo a git pull](https://dev.to/smpnjn/how-to-undo-a-git-pull-b88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Spotify Playing -->
