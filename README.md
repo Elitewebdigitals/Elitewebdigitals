@@ -38,11 +38,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 8 Data Science Jobs and Skills of 2023- Codexashish](https://dev.to/scorpiocoder/top-8-data-science-jobs-and-skills-of-2023-codexashish-2bc5)
-- [Why explicit return type is a good thing](https://dev.to/arnelenero/why-explicit-return-type-is-a-good-thing-43lj)
-- [Build a custom React autocomplete search component](https://dev.to/michaelburrows/build-a-custom-react-autocomplete-search-component-2hcd)
-- [Computed Nano Stores](https://dev.to/dailydevtips1/computed-nano-stores-552g)
-- [Go from Junior to Senior developer in a couple of hours](https://dev.to/polterguy/go-from-junior-to-senior-developer-in-a-couple-of-hours-5hee)
+
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Spotify Playing -->
