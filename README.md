@@ -38,11 +38,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make a simple interactive shell in Go](https://dev.to/arshamalh/how-to-make-a-simple-interactive-shell-in-go-2log)
+- [How to configure path aliases w/Vite + Vue/React](https://dev.to/koha/how-to-configure-path-aliases-wvite-vuereact-3po9)
+- [Failed my way to 🥑developcado🥑](https://dev.to/jennjunod/failed-my-way-to-developcado-328d)
 - [Colored logs in Flutter application with Talker](https://dev.to/frezyx/colored-logs-in-flutter-application-with-talker-2d25)
 - [How to undo a git pull](https://dev.to/smpnjn/how-to-undo-a-git-pull-b88)
-- [PHP+Nginx+Docker](https://dev.to/walternascimentobarroso/phpnginxdocker-nih)
-- [Build a Next.js App with Appwrite and Multiple Databases](https://dev.to/hackmamba/build-a-nextjs-app-with-appwrite-and-multiple-databases-5bgf)
-- [Analyzing AST in Go with JSON tools](https://dev.to/evgenus/analyzing-ast-in-go-with-json-tools-36dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Spotify Playing -->
