@@ -38,11 +38,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Go from Junior to Senior developer in a couple of hours](https://dev.to/polterguy/go-from-junior-to-senior-developer-in-a-couple-of-hours-5hee)
+- [Defining Docker 🐳](https://dev.to/kitarp29/defining-docker-4l06)
 - [How To Create Avatar From Photo](https://dev.to/zegocloud/how-to-create-avatar-from-photo-57oa)
+- [Don’t over emphasize the importance of the react folder structure, focus on the philosophies beyond the folder structure](https://dev.to/summerbud/dont-over-emphasize-the-importance-of-the-react-folder-structure-focus-on-the-philosophies-beyond-the-folder-structure-o48)
 - [How to make a simple interactive shell in Go](https://dev.to/arshamalh/how-to-make-a-simple-interactive-shell-in-go-2log)
-- [Run a node app into AWS lambda](https://dev.to/dashpy/run-a-node-app-into-aws-lambda-1g07)
-- [How to configure path aliases w/Vite + Vue/React](https://dev.to/koha/how-to-configure-path-aliases-wvite-vuereact-3po9)
-- [Failed my way to 🥑developcado🥑](https://dev.to/jennjunod/failed-my-way-to-developcado-328d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Spotify Playing -->
