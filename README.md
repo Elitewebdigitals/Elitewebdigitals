@@ -28,11 +28,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [#SKALE SUMMER SPLASH](https://www.youtube.com/watch?v=LbwwA3DiHno)
 - [Scaling to the Top: The @SKALE at #OuterEdge](https://www.youtube.com/watch?v=saH5scOMBSw)
 - [Git and Vs code setup- Work directly from Vs code.](https://www.youtube.com/watch?v=nCSjUBV3FaE)
 - [Learn the right way](https://www.youtube.com/watch?v=jI7TJlFux1M)
 - [How to Install and Configure Ubuntu in VirtualBox video 2022 08 15 02 19 32](https://www.youtube.com/watch?v=u1CqOQE3zco)
-- [How To Enable Virtualization on Windows 7-11 PCs](https://www.youtube.com/watch?v=wQ1n_S8gxUk)
 <!-- YOUTUBE:END -->
 
 
