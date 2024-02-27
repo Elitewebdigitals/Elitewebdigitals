@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elitewebdigitals&theme=gruvbox" alt="elitewebdigitals" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nonfungibleraph" target="blank"><img src="https://img.shields.io/twitter/follow/nonfungibleraph?logo=twitter&style=for-the-badge" alt="nonfungibleraph" /></a> </p>
+<p align="left"> <a href="https://twitter.com/alpharider_" target="blank"><img src="https://img.shields.io/twitter/follow/alpharider_?logo=twitter&style=for-the-badge" alt="Alpharider" /></a> </p>
 
 
 - 🔭 I’m currently working on a project yet to be disclosed**
